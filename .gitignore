@@ -4,3 +4,17 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Build artifacts
+vector_add_template
+*.o
+*.so
+*.a
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
